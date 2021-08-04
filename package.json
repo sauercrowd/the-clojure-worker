@@ -1,0 +1,4 @@
+{
+  "name": "the-clojure-worker",
+  "main": "target/worker.js"
+}
